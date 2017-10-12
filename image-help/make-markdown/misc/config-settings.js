@@ -2,11 +2,11 @@
  * Created by charlie on 7/21/16.
  */
 
-const elfConfig = require('isit-code-calvert').elfConfig;
+const elfConfig = require('isit-code-delduca').elfConfig;
 elfConfig.useLocalConfig = true;
-const elfUtils = require('isit-code-calvert').elfUtils;
+const elfUtils = require('isit-code-delduca').elfUtils;
 const ElfSelectedErrorObject = require('./ElfSelectedObjectError');
-// const elfLog = require('isit-code-calvert').elfLog('config-settings');
+// const elfLog = require('isit-code-delduca').elfLog('config-settings');
 
 function ConfigSettings() {
     'use strict';
