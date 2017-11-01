@@ -8,8 +8,8 @@ describe('Test Make Markdown Suite', function() {
     'use strict';
 
     const expected = [
-        '/home/charlie/ElvenImages/california1.md',
-        '/home/charlie/ElvenImages/california2.md'
+        '/home/bcuserElvenImages/california1.md',
+        '/home/bcuserElvenImages/california2.md'
     ];
 
     const customMatchers = require('./custom-matchers');

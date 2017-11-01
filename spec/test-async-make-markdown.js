@@ -6,8 +6,8 @@ describe('Test Make Markdown Suite', function() {
     'use strict';
 
     const expected = [
-        '/home/charlie/ElvenImages/california1.md',
-        '/home/charlie/ElvenImages/california2.md'
+        '/home/bcuserElvenImages/california1.md',
+        '/home/bcuserElvenImages/california2.md'
     ];
 
     const customMatchers = require('./custom-matchers');
@@ -89,7 +89,7 @@ describe('Test Make Markdown Suite', function() {
 
     it('tests when file exists', function(done) {
         function testToExist() {
-            const fileName = '/home/charlie/ElvenImages/california2.md';
+            const fileName = '/home/bcuserElvenImages/california2.md';
             if (elfUtils.fileExists(fileName)) {
                 console.log('FILENAME EXISTS', fileName);
             } else {
