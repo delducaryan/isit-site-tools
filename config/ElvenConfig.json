@@ -17,16 +17,16 @@
             "Documents/AllSite"
         ],
         "destination-dirs": [
-            "/home/charlie/Git/charliecalvert.github.io/books/CloudNotes/Prog272/",
-            "/home/charlie/Git/charliecalvert.github.io/books/CloudNotes/Isit322/",
-            "/home/charlie/Git/charliecalvert.github.io/development/web/JavaScript/",
-            "/home/charlie/Git/charliecalvert.github.io/Os/Linux/",
-            "/home/charlie/Git/charliecalvert.github.io/books/CloudNotes/Assignments/CodeAcademy/",
-            "/home/charlie/Git/charliecalvert.github.io/books/CloudNotes/Assignments/",
-            "/home/charlie/Git/charliecalvert.github.io/books/CloudNotes/tips/",
+            "/home/bcuser/Git/charliecalvert.github.io/books/CloudNotes/Prog272/",
+            "/home/bcuser/Git/charliecalvert.github.io/books/CloudNotes/Isit322/",
+            "/home/bcuser/Git/charliecalvert.github.io/development/web/JavaScript/",
+            "/home/bcuser/Git/charliecalvert.github.io/Os/Linux/",
+            "/home/bcuser/Git/charliecalvert.github.io/books/CloudNotes/Assignments/CodeAcademy/",
+            "/home/bcuser/Git/charliecalvert.github.io/books/CloudNotes/Assignments/",
+            "/home/bcuser/Git/charliecalvert.github.io/books/CloudNotes/tips/",
             "/var/www/html/Prog272/",
             "/var/www/html/Isit322/",
-            "/home/charlie/Source/firebase/public/",
+            "/home/bcuser/Source/firebase/public/",
             "/var/www/html/",
             "/var/www/html/Assignments/"
         ],
@@ -68,7 +68,7 @@
         },
         {
             "name": "testImages",
-            "baseDir": "/home/charlie/Git/writings/Tech/Markdown",
+            "baseDir": "/home/bcuser/Git/writings/Tech/Markdown",
             "cloudPath": "/images",
             "createSmallImages": true
         }
