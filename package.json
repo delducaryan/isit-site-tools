@@ -1,6 +1,6 @@
 {
     "name": "isit-site-tools-delduca",
-    "version": "1.0.7",
+    "version": "1.0.8",
     "description": "Isit tooling for building web sites",
     "main": "index.js",
     "scripts": {
